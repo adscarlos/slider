@@ -317,7 +317,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu cursus nisl. Cura
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script src="codes/3060845211.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/1804106810.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/2190924133.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/3060845211.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/4158215450.js"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/6551171546.js"></script>
+
+
 
 </body>
 </html>
