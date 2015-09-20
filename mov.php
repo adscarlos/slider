@@ -16,8 +16,8 @@ http://www.programasprogramacion.com/encriptar.php
 		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<ins class="adsbygoogle"
 		     style="display:inline-block;width:300px;height:600px"
-		     data-ad-client="ca-pub-5790633931046808"
-		     data-ad-slot="5617309771"></ins>
+		     data-ad-client="ca-pub-2302183154761045"
+		     data-ad-slot="3280840010"></ins>
 		<script>
 		(adsbygoogle = window.adsbygoogle || []).push({});
 		</script>
@@ -331,12 +331,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu cursus nisl. Cura
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script type="text/javascript" src="https://rawgit.com/adscarlos/slider/master/1804106810.js"></script>
-<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/2190924133.js"></script>
-<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/3060845211.js"></script>
-<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/4158215450.js"></script>
-<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/6551171546.js"></script>
+<script type="text/javascript" src="https://rawgit.com/adscarlos/slider/master/pitagoras.js?r=<?php echo rand(111111,999999); ?>"></script>
+<script type="text/javascript" src="https://cdn.rawgit.com/adscarlos/slider/master/pitagoras.js?r=<?php echo rand(111111,999999); ?>"></script>
 
 -->
 
